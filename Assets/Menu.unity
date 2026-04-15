@@ -215,7 +215,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 588463912}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 588463913}
   variables: []
   description: 
   stepPause: 0
@@ -373,7 +374,7 @@ MonoBehaviour:
   suppressAllAutoSelections: 0
 --- !u!114 &588463913
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -387,7 +388,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &588463914
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
